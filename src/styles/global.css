@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply bg-[#A7DCA5];
+    font-family: "Inter", sans-serif;
+    font-family: "Press Start 2P", cursive;
+}
